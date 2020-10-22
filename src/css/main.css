@@ -100,6 +100,17 @@ header a img {
   left: 0;
   top: 0;
   margin-top: 6rem;
+  animation: movimiento 2s alternate infinite ease-in;
+}
+
+@keyframes movimiento {
+  0% {
+    transform: translateX(-18%);
+  }
+
+  100% {
+    transform: translateX(5%);
+  }
 }
 
 .nosotros img {
