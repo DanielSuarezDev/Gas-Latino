@@ -1,0 +1,30 @@
+.hero {
+  height: 50vh;
+}
+
+.nosotros {
+  height: 17rem;
+}
+
+.nosotros p {
+  margin: 0.7rem 0 0 0.6rem;
+
+}
+
+.title {
+  font-size: 4rem;
+}
+
+.services {
+  padding: 4rem 0;
+}
+
+.cuadricula {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.productos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0.6rem;
+}
