@@ -54,7 +54,7 @@ header nav {
 }
 
 .title {
-  font-size: 2.6rem;
+  font-size: 2.4rem;
   padding: 7rem 0 0 0;
 }
 
@@ -92,6 +92,7 @@ header nav {
   font-size: 1rem;
 } */
 
+
 header a img {
   z-index: 30;
   width: 3rem;
@@ -100,6 +101,17 @@ header a img {
   left: 0;
   top: 0;
   margin-top: 6rem;
+  animation: movimiento 2s alternate infinite ease-in;
+}
+
+.facebook img {
+  z-index: 30;
+  width: 2.5rem;
+  height: 2.5rem;
+  position: fixed;
+  left: 0;
+  top: 0;
+  margin-top: 3.5rem;
   animation: movimiento 2s alternate infinite ease-in;
 }
 
