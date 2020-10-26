@@ -8,6 +8,7 @@
 
 body {
   font-size: 62.5%;
+  font-family: 'DM Sans', sans-serif;
 }
 
 .container {
@@ -157,6 +158,7 @@ header a img {
   font-size: 0.9rem;
   text-align: justify;
   font-size: 1.2rem;
+  font-family: 'Inter', sans-serif;
 }
 
 .services {
