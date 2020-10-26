@@ -129,6 +129,17 @@ header a img {
   }
 }
 
+.aliados img {
+  width: 330px;
+  height: 250px;
+  margin-top: -30px;
+}
+
+.aliados h2 {
+  font-size: 1.6rem;
+  padding: 1.6rem;
+}
+
 .nosotros img {
   width: 19rem;
   height: 17rem;
