@@ -55,7 +55,11 @@ header nav {
 
 .title {
   font-size: 2.4rem;
-  padding: 7rem 0 0 0;
+  padding: 5rem 0 0 0;
+}
+
+.firma {
+  font-size: 1.6rem;
 }
 
 .corteabajo {
@@ -121,7 +125,7 @@ header a img {
   }
 
   100% {
-    transform: translateX(5%);
+    transform: translateX(30%);
   }
 }
 
